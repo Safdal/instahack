@@ -1,1 +1,4 @@
-printf("Enter two integers: ");
+int number1, number2, sum;
+printf("Enter two number: ");
+
+
