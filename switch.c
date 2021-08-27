@@ -6,7 +6,6 @@ int main(){
            scanf ("%d", choice);
            switch (choice){
 
-
            case 1:
            printf ("you have ender porotta");
            break;
@@ -21,7 +20,7 @@ int main(){
 
            case 4:
            printf ("you have ender race")
-           brrak;
+           break;
 
            default:
            printf ("you are a fool")
