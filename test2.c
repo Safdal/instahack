@@ -9,6 +9,7 @@ int main() {
              printf ("you have ender positive number")
              }else(num > 0){
              printf ("you have ander negative number")
+             
              }
              
            }
