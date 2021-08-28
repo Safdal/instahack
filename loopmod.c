@@ -7,6 +7,6 @@ int main() {
 
               for (i = 2, i < num, i++){
               if (i % 2 == 0)
-              printf ("%d", i)
+              printf ("%d \n", i)
             }
            }
