@@ -8,11 +8,12 @@ int main() {
             scanf ("%d", num[i][j]);
              }
             }
-            printf ("ender number ");
+            printf ("ender number\n ");
             for (i = 0; i < 3; i++){
             for (j = 0; j < 3; j++){
-            printf ("%d", num[i][j])
+            printf ("%d"\t, num[i][j])
               }
              }
+            printf ("\n")
 
            }
